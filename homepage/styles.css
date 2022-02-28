@@ -1,0 +1,90 @@
+p 
+{
+  font-family: 'Alegreya', serif;
+}
+            
+.container 
+{
+  width: 60%;
+  margin: auto;
+}
+
+.heading-container
+{
+  width: 27%;
+  margin:auto;
+}
+
+.FA-h2 
+{
+  text-shadow: 3px 2px #ffffff;
+}
+
+.P-h2
+{
+  text-shadow: 3px 2px #f9e6ff;
+}
+
+.split 
+{
+  height: 200%;
+  width: 50%;
+  position: absolute;
+}
+
+.left 
+{
+  left: 0;
+  margin-right:0;
+}
+
+.right 
+{
+ right: 0;
+ margin-left:0;
+}
+
+.map 
+{
+  height: 100vh;
+  text-align: center;
+}
+
+.L-h2
+{
+  text-shadow: 3px 2px #91187F;
+}
+
+.indexleft
+{
+  text-shadow: 7px 5px #153067;
+  position: relative;
+  left: 40px;
+}
+
+.indexright
+{
+  text-shadow: 3px 2px #9B0999;
+  text-align: right;
+  position: relative;
+  right: 40px;
+}
+
+.top
+{
+  width: 50%;
+  position: absolute;
+}
+
+.navcolor
+{
+  background-color: #00488c;
+  overflow: hidden;
+}
+
+.navcolor a
+{
+  color: white;
+}
+
+           
